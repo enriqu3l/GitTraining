@@ -1,4 +1,4 @@
-## This is a github trainning repo
+## This is a github training repo
 
 Common git commands
 
